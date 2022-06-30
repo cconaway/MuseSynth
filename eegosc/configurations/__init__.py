@@ -1,0 +1,1 @@
+from eegosc.configurations import default_muse1, guest_muse
